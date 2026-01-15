@@ -5,10 +5,14 @@ A standalone Linux utility for unpacking archives and installing packages. It au
 ## Quick Start: 
 1) Install dependencies:
 # Arch Linux
-```bash sudo pacman -S erlang erlang-escript```
+```bash
+sudo pacman -S erlang erlang-escript
+```
 
 # Debian/Ubuntu 
+```bash
 sudo apt update && sudo apt install erlang-base erlang-escript
+```
 
 # Fedora/RHEL/CentOS
 sudo dnf install erlang
