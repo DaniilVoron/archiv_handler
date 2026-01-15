@@ -15,13 +15,19 @@ sudo apt update && sudo apt install erlang-base erlang-escript
 ```
 
 # Fedora/RHEL/CentOS
+```bash
 sudo dnf install erlang
+```
 
 # openSUSE
+```bash
 sudo zypper install erlang
+```
 
 # Alpine Linux
+```bash
 sudo apk add erlang erlang-escript
+```
 
 2) Install the project file, you need to make it executable
 
